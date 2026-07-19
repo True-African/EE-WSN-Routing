@@ -1,4 +1,4 @@
-# AWARE-UC WSN
+# EE WSN Power Threshold Routing
 
 A reproducible MATLAB research package for **AWARE-UC: Availability and Weighted-energy Adaptive Routing with Uneven Clustering**, an energy-aware clustering and routing protocol for wireless sensor networks.
 
