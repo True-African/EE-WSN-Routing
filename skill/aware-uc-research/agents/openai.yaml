@@ -1,0 +1,4 @@
+interface:
+  display_name: "AWARE-UC Research"
+  short_description: "Run and document AWARE-UC WSN experiments"
+  default_prompt: "Use $aware-uc-research to run, analyze, and document an AWARE-UC wireless sensor network experiment."

@@ -1,0 +1,30 @@
+# MATLAB generated state
+*.asv
+*.autosave
+*.fig
+*.m~
+slprj/
+codegen/
+
+# New timestamped experiment output
+matlab/results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Office lock files
+~$*.docx
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key

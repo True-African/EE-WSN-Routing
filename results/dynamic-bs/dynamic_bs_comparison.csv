@@ -1,0 +1,7 @@
+Case,Protocol,Xm,Ym,Nodes,Shape,Sink,Dynamic_BS,Mobility,FND,HND,AND,Packets_BS,Alive_Final,Residual_Energy
+center_static,LEACH,100,100,100,square,center,0,circle,348,1037.8,1427.2,5258.4,0,0
+center_static,EDD_LEACH,100,100,100,square,center,0,circle,345,1031.6,1373.6,5168,0,0.000234755995076157
+center_static,AERT_UC,100,100,100,square,center,0,circle,1127.4,2457.4,4434.8,10154.2,1.2,0.153942432689499
+dynamic_circle,LEACH,100,100,100,square,center,1,circle,346.6,1046.6,1388,5214.8,0,0
+dynamic_circle,EDD_LEACH,100,100,100,square,center,1,circle,349.6,1061,1436.6,5337.8,0,0.000267871930618335
+dynamic_circle,AERT_UC,100,100,100,square,center,1,circle,1129,2391,4303.4,10082.4,0.6,0.15387990416193

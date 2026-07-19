@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or research package, please cite it using the metadata below."
+title: "AWARE-UC WSN: Availability and Weighted-energy Adaptive Routing with Uneven Clustering"
+type: software
+authors:
+  - name: "AWARE-UC Research Team"
+version: 0.1.0
+date-released: 2026-07-19
+repository-code: "https://github.com/True-African/aware-uc-wsn"
+keywords:
+  - wireless sensor networks
+  - clustering
+  - routing
+  - MATLAB
+  - energy efficiency
+  - AWARE-UC
+license: "LicenseRef-Proprietary"
